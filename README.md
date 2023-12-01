@@ -1,5 +1,10 @@
-<h1 align="center">Hi, I'm Omar 👋</h1>
+<div align="center">
+ 
+ 🔭 I’m currently **Undergraduate CSE**
+ 
+ 🌱 I’m currently learning **Embedded Systems**
 
+ </div>
 <p align="center">
   <a href="https://www.linkedin.com/in/eng-omar-pro">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
