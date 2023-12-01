@@ -37,6 +37,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarhassan2&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </p>
 
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
 ---
 
 <!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
