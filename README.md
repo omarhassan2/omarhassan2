@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **engomar625@gmail.com**
 
-- 📄 Know about my experiences [https://shorturl.at/CGJPU](https://shorturl.at/CGJPU)
+- 📄 Know about my experiences [CV](https://shorturl.at/CGJPU)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
